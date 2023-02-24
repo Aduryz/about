@@ -54,12 +54,9 @@
   date: Sep. 2021 - Jun. 2022
   subtitle: 전공강연 연합동아리 COMmunication with MAjor <br> 중•고등학교 학생들을 대상으로 전공을 소개하며 멘토링을 진행함. <br> 특히 "4차 산업혁명에 필수적인 실내 위치 측정"이라는 주제로 심화강연을 진행함. <br> 22-1 운영진(팀장)을 하며 조를 이끌고 강연 컨택을 진행함. 
   timeline-side: right
-
-- title: GDSC Hanyang
-  title-url: 
-  date: Sep. 2021 - Jun. 2022
-  subtitle: Python Study 진행
   tags:
-    - tag: Python
-  timeline-side: right
+    - tag: PPT Skill
+    - tag: Volunteer
+    - tag: Mentoring
+    - tag: Understand major better
 

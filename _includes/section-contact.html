@@ -1,69 +1,14 @@
 <h1 class="title">{{site.contact_title}}</h1>
-<p class="subtitle">{{site.contact_description}}</p>
-
-<div class="contact-icons">
-  {% if site.email != null %}
-  <a class="social-link" aria-label="My E-Mail" href="mailto:{{site.email}}">
-    <div class="social">
-      <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/solid.svg#envelope" | prepend: site.baseurl }}"></use>
-      </svg>
-    </div>
-  </a>
-  {% endif %}
-
-  {% if site.github_username != null %}
-  <a class="social-link" aria-label="My GitHub" target="_blank" rel="noreferrer"
-    href="https://github.com/{{site.github_username}}">
-    <div class="social">
-      <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#github" | prepend: site.baseurl }}"></use>
-      </svg>
-    </div>
-  </a>
-  {% endif %}
-
-  {% if site.codepen_username != null %}
-  <a class="social-link black" aria-label="My Codepen" target="_blank" rel="noreferrer"
-    href="https://codepen.io/{{site.codepen_username}}">
-    <div class="social">
-      <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#codepen" | prepend: site.baseurl }}"></use>
-      </svg>
-    </div>
-  </a>
-  {% endif %}
-
-  {% if site.dev_username != null %}
-  <a class="social-link black" aria-label="My DEV" target="_blank" rel="noreferrer"
-    href="https://dev.to/{{site.dev_username}}">
-    <div class="social">
-      <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#dev" | prepend: site.baseurl }}"></use>
-      </svg>
-    </div>
-  </a>
-  {% endif %}
-
-  {% if site.linkedin_username != null %}
-  <a class="social-link linkedin" aria-label="My LinkedIn" target="_blank" rel="noreferrer"
-    href="https://www.linkedin.com/in/{{site.linkedin_username}}">
-    <div class="social">
-      <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#linkedin-in" | prepend: site.baseurl }}"></use>
-      </svg>
-    </div>
-  </a>
-  {% endif %}
-
-  {% if site.twitter_username != null %}
-  <a class="social-link twitter" aria-label="My Twitter" target="_blank" rel="noreferrer"
-    href="https://twitter.com/{{site.twitter_username}}">
-    <div class="social">
-      <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#twitter" | prepend: site.baseurl }}"></use>
-      </svg>
-    </div>
-  </a>
-  {% endif %}
-</div>
+<html>
+  <head>
+  </head>
+  <body> 
+    <ul>
+      <li><h3>2022 한양학술타운 LION - 원격으로 조작하는 스탠드형 개인 모니터</h3></li>
+      <li><h3>2022 HX-CES 1기 - VLSI circuit design automation for reducing design cost and spec enhancing</h3></li>
+      <li><h3>2022 제 1회 공과대학 학술제 RAON - Beacon을 이용한 위치추적</h3></li>
+      <li><h3>2021 제7회 공과대학장배 공학입문설계경진대회 Automata 분야 장려상 (3위)</h3></li>
+      <li><h3>2019 제37회 전국청소년과학탐구대회메카트로닉스 대상 (1위)</h3></li>
+    </ul>
+  </body>
+</html>
