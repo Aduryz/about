@@ -5,32 +5,25 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
+# HW
+
+- name: Arduino
   weight: 5
 
-- name: Bash
-  weight: 3
-
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
+- name: Raspberry Pi
   weight: 1
 
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
-  weight: 4
-
-- name: VS Code
+- name: Beacon
   weight: 3
 
-- name: Postman
+- name: 8051 Microprocessor
+  weight: 3
+
+- name: RF communication
+  weight: 1
+
+- name: FPGA
+  weight: 1
+
+- name: Motor control
   weight: 4
