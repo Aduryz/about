@@ -20,11 +20,11 @@ email: chs902m@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: arduriz
+codepen_username: arduriz #Homepage #landing-page.html에서 수정
+dev_username: arduriz #insta
+linkedin_username: 
+twitter_username: 
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: I am an electronic engineer studying Embedded, Digital Circuits, and Programming to achieve the goal of "Practicing the happiness of mankind through engineering." I am learning and experiencing with the belief that "I cannot expand my talent without learning, and cannot achieve learning without meaning." <br> <br> “공학을 통한 인류의 행복 실천”이라는 목표를 달성하기 위해 임베디드와 디지털 회로, 프로그래밍을 공부하고 있는 전자공학도입니다. “배움이 없이는 재능을 넓힐 수 없고, 뜻이 없이는 배움을 이룰 수 없다”를 신조로 삼으며 배우고 경험하는 중입니다.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -86,7 +86,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: arduriz/about
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -115,7 +115,7 @@ google-analytics:
 ### END OF VALUES YOU SHOULD CHANGE ###
 
 plugins:
-  # - "jekyll-github-metadata"
+#  - "jekyll-github-metadata"
 
 exclude:
   [
@@ -127,4 +127,4 @@ exclude:
     "package.json",
   ]
 
-# github: [metadata]
+github: [metadata]
