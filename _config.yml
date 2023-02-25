@@ -127,4 +127,4 @@ exclude:
     "package.json",
   ]
 
-  github: [metadata]
+github: [metadata]
