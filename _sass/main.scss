@@ -28,7 +28,7 @@ $card-bg-color: linear-gradient(
   rgba(115, 115, 115, 0.15) 15%,
   rgba(43, 45, 47, 1) 80%
 );
-$primary-color: #229756;
+$primary-color: #e64a4a;
 
 /* General */
 
@@ -58,6 +58,7 @@ h1 {
 
 p {
   word-spacing: 0.1rem;
+  line-height: 2rem;
 }
 
 a {
@@ -70,8 +71,8 @@ a {
 }
 
 .highlight-title {
-  color: $primary-color;
-  text-shadow: 0.25rem 0.25rem 0.25rem $primary-color;
+  color: #229756;
+  //text-shadow: 0.25rem 0.25rem 0.25rem $primary-color;
 }
 
 .highlight-link {
@@ -402,16 +403,16 @@ a {
   }
 
   div[skill-type="language"] {
-    color: #e84a5f;
-  }
-
-  div[skill-type="framework"] {
-    color: #ff847c;
+    color: #ef5285; //#e84a5f
   }
 
   div[skill-type="tool"] {
-    color: #fecea8;
+    color: #feee7d; //#fecea8
   }
+
+  div[skill-type="framework"] {
+    color: #60c5ba; //#ff847c
+  } 
 
   div[skill-weight="1"] {
     font-size: 0.75rem;
@@ -453,6 +454,7 @@ a {
   .timeline {
     list-style-type: none;
     padding: 0;
+    line-height: 2rem;
     position: relative;
   }
 
@@ -588,7 +590,7 @@ a {
 }
 
 .project-desc {
-  line-height: 1rem;
+  line-height: 2rem;
 }
 
 .project-stars-forks {
@@ -676,6 +678,7 @@ a {
 
   .landing-title h1 {
     font-size: 3rem;
+    font-family:Pretendard
   }
 
   .landing-icons .social-link {

@@ -17,13 +17,13 @@
 - name: Assembly
   weight: 3
 
+- name: Verilog
+  weight: 1
+
 - name: HTML
   weight: 1
 
 - name: CSS
-  weight: 1
-
-- name: SASS
   weight: 1
 
 - name: Ruby
