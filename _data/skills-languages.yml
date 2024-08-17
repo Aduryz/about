@@ -28,3 +28,6 @@
 
 - name: Ruby
   weight: 1
+
+- name: vbs
+  weight: 5
