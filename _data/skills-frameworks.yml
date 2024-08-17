@@ -43,8 +43,8 @@
 - name: Bash
   weight: 1
 
-- name: VS Code
-  weight: 3
+- name: MS Excel
+  weight: 4
 
 - name: Inkscape
   weight: 2
