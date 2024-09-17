@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: about | Arduriz
+title: about | Aduryz
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -16,13 +16,13 @@ username: CHOI Hyunseo
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: interested in Embedded, Circuit & Programming
 # email: Your E-Mail address for the email button.
-email: chs902m@gmail.com
+email: the.choihs@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: arduriz
-codepen_username: arduriz #Homepage #landing-page.html에서 수정
-dev_username: arduriz #insta
+github_username: aduryz
+codepen_username: aduryz #Homepage #landing-page.html에서 수정
+dev_username: aduryz #insta
 linkedin_username: 
 twitter_username: 
 
@@ -86,7 +86,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: arduriz/about
+repository: aduryz/about
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
