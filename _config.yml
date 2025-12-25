@@ -15,6 +15,11 @@ username: CHOI Hyunseo
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: interested in Embedded, Circuit & Programming
+# 251226 change
+typing_text1: specialize in Embedded Systems
+typing_text2: focus on Digital Circuit
+typing_text3: explore Programming
+
 # email: Your E-Mail address for the email button.
 email: the.choihs@gmail.com
 # For every social button you want to display, set your username or userid
